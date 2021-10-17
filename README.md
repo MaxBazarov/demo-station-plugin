@@ -18,7 +18,7 @@ Long term
 
 # Community
 GitHub Discussions 
-https://github.com/MaxBazarov/demo-station-plugin/discussions
+- https://github.com/MaxBazarov/demo-station-plugin/discussions
 
 Facebook group 
-https://www.facebook.com/groups/611776753155323
+- https://www.facebook.com/groups/611776753155323
