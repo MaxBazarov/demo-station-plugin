@@ -1,8 +1,8 @@
-#SHORT TODO
+SHORT TODO
 -Overlay background
 
-#MEDIUM TODO
+MEDIUM TODO
 -Developer Handoff
 
-#LONG TODO
+LONG TODO
 -Comments
