@@ -1,8 +1,14 @@
-SHORT TODO
--Overlay background
+# Demo Station
 
-MEDIUM TODO
--Developer Handoff
+A Figma plugin that exports frames into clickable HTML file with images. 
 
-LONG TODO
--Comments
+# Future improvements
+Short term
+- Overlay background
+
+Medium term
+- Developer Handoff
+
+Long term
+- Publish to cloud
+- Comments
