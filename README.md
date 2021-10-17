@@ -6,6 +6,7 @@ A Figma plugin that exports frames into clickable HTML file with images.
 Short term
 - Support for overlay background
 - Support for multiple flows
+- Move viewer assets (css,icons,etc) into ZIP archive
 
 Medium term
 - Developer Handoff
