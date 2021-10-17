@@ -15,3 +15,6 @@ Medium term
 Long term
 - Publish to cloud
 - Comments
+
+# Community
+https://github.com/MaxBazarov/demo-station-plugin/discussions
