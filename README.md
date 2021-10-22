@@ -2,19 +2,23 @@
 
 A Figma plugin that exports frames into clickable HTML file with images. 
 
-# Future improvements
-Short term
+# Roadmap
+Beta 2
 - ~~Move viewer assets (css,icons,etc) into ZIP archive~~
 - Complete Developer Handoff
 
-Medium term
+Release 1.0
 - Element states
 - Support for overlay background
 - Support for multiple flows
 
-Long term
+Release 2.0
 - Publish to cloud
 - Comments
+
+# Contacts
+Maxim Bazarov
+mbazarov@gmail.com
 
 # Community
 GitHub Discussions 
