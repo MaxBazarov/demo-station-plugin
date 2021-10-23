@@ -6,15 +6,20 @@ https://www.figma.com/community/plugin/1033284895522313541
 # Roadmap
 Beta 2
 - ~~Move viewer assets (css,icons,etc) into ZIP archive~~
-- Complete Developer Handoff
+- Developer Handoff (Element inspector) for base nodes
 
 Release 1.0
 - Element states
+- Gradient colors
+
+Release 1.1
 - Support for overlay background
 - Support for multiple flows
+- Transitions
 
-Release 2.0
+Release X.0
 - Publish to cloud
+- Integration with Style Station (share design tokens)
 - Comments
 
 # Contacts
