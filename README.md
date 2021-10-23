@@ -15,6 +15,7 @@ Beta 2
 Release 1.0
 - Element states
 - Gradient colors
+- Shadows
 
 Release 1.1
 - Support for overlay background
