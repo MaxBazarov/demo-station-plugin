@@ -3,6 +3,10 @@
 A Figma plugin that exports frames into clickable HTML file with images.   
 https://www.figma.com/community/plugin/1033284895522313541
 
+# Features
+- Gallery (map and grid modes)
+- Element Inspector (Developer handoff)
+
 # Roadmap
 Beta 2
 - ~~Move viewer assets (css,icons,etc) into ZIP archive~~
