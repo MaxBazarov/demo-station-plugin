@@ -21,6 +21,7 @@ Release 1.1
 - Support for overlay background
 - Support for multiple flows
 - Transitions
+- Export all / current page / selected
 
 Release X.0
 - Publish to cloud
