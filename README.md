@@ -3,8 +3,12 @@
 A Figma plugin that exports frames into clickable HTML file with images.   
 https://www.figma.com/community/plugin/1033284895522313541
 
-<img width="800px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-main.png"/>
-<img width="800px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-settings.png"/>
+<img width="600px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-main.png"/>
+<img width="600px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-settings.png"/>
+<img width="600px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/viewer-menu.png"/>
+<img width="600px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/viewer-gallery.png"/>
+<img width="600px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/viewer-inspector.png"/>
+<img width="600px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/zip-content.png"/>
 
 # Features
 - Overlays
