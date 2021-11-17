@@ -1,18 +1,28 @@
 # Demo Station
 
-A Figma plugin that exports frames into clickable HTML file with images.   
+A Figma plugin that exports frames into clickable HTML file with images.
 https://www.figma.com/community/plugin/1033284895522313541
 
 <img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-main.png"/><img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-settings.png"/>
-<img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/viewer-menu.png"/><img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/viewer-gallery.png"/>
-<img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/viewer-inspector.png"/><img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/zip-content.png"/>
+
+## ZIP-archive content
+<img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/zip-content.png"/>
+
+## Viewer menu
+<img width="700px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/viewer-menu.png"/>
+
+## Viewer gallery
+<img width="700px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/viewer-gallery.png"/>
+
+## Viewer element inspector
+<img width="700px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/viewer-inspector.png"/>
 
 # Features
 - Overlays
 - Gallery (map and grid modes)
 - Element Inspector (Developer handoff)
 - Show layout grid (single grid of "cols" type only)
-- Text search by frame name and text node content
+- Text search by frame name and text node content across all project
 
 # Roadmap
 Beta 2
