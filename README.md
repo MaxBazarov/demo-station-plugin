@@ -6,7 +6,7 @@ https://www.figma.com/community/plugin/1033284895522313541
 <img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-main.png"/><img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-settings.png"/>
 
 ## ZIP-archive content
-<img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/zip-content.png"/>
+<img width="700px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/zip-content.png"/>
 
 ## Viewer menu
 <img width="700px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/viewer-menu.png"/>
