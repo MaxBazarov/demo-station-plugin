@@ -17,6 +17,9 @@ A Figma plugin that exports frames into clickable HTML file with images.
 ## Viewer element inspector
 <img width="700px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/viewer-inspector.png"/>
 
+# Generated protoype examples
+https://mbazarov.net/figma/demo-station/demo
+
 # Features
 - Overlays
 - Gallery (map and grid modes)
