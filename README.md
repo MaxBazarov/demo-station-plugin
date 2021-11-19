@@ -18,7 +18,7 @@ A Figma plugin that exports frames into clickable HTML file with images.
 <img width="700px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/viewer-inspector.png"/>
 
 # Export examples
-https://maxbazarov.github.io/demo-station-plugin/export-examples/registration
+https://maxbazarov.github.io/demo-station-plugin/export-examples/registration  
 https://maxbazarov.github.io/demo-station-plugin/export-examples/finpay/?label&g=m
 
 # Features
