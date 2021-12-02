@@ -11,10 +11,11 @@ var story = {
  "serverToolsPath": "",
  "fontSizeFormat": -1,
  "fileType": "png",
+ "disableInteractions": false,
  "disableHotspots": false,
  "zoomEnabled": true,
  "title": "Demo",
- "layersExist": false,
+ "layersExist": true,
  "highlightLinks": true,
  "pages": [
   {
