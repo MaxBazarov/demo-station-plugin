@@ -31,7 +31,7 @@ https://maxbazarov.github.io/demo-station-plugin/export-examples/finpay/?label&g
 # Roadmap
 Beta 2
 - ~~Move viewer assets (css,icons,etc) into ZIP archive~~
-- Developer Handoff (Element inspector) for base nodes
+- ~~Upload to Cloud hosting~~
 
 Release 1.0
 - Element states
@@ -39,15 +39,15 @@ Release 1.0
 - Shadows
 
 Unsorted
-- Publish to cloud
+- Support more cloud hosting services
+- Comments
 - Integration with Style Station (share design tokens)
 - Support for overlay background
 - Support for multiple flows
 - Support for multiple grid layout
 - Support for all layout grid types
 - Transitions
-- Export all / current page / selected
-- Comments
+- ~~Export all / current page / selected~~
 
 # Contacts
 Maxim Bazarov
