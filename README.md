@@ -5,6 +5,9 @@ A Figma plugin that exports frames into clickable HTML file with images.
 
 <img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-main.png"/><img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-settings.png"/>
 
+## Plugin reviewed
+[Review by Raúl Marín](https://www.youtube.com/watch?v=exvafpaxGFU) (in Spanish)
+
 ## ZIP-archive content
 <img width="700px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/zip-content.png"/>
 
