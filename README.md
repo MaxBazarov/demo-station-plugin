@@ -3,7 +3,8 @@
 A Figma plugin that exports frames into clickable HTML file with images.  
 **https://www.figma.com/community/plugin/1033284895522313541**
 
-<img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-main.png"/><img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-settings.png"/>
+<img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-main-zip.png"/><img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-main-cloud.png"/>
+<img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-settings.png"/>
 
 ## Plugin reviewed
 [Review by Raúl Marín](https://www.youtube.com/watch?v=exvafpaxGFU) (in Spanish)
