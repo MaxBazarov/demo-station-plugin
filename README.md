@@ -32,6 +32,9 @@ https://maxbazarov.github.io/demo-station-plugin/export-examples/finpay/?label&g
 - Show layout grid (single grid of "cols" type only)
 - Text search by frame name and text node content across all project
 
+# Documentation
+[Protytype file structure](https://github.com/MaxBazarov/demo-station-plugin/blob/main/docs/prototype-structure.md)
+
 # Roadmap
 Beta 2
 - ~~Move viewer assets (css,icons,etc) into ZIP archive~~
@@ -42,7 +45,7 @@ Release 1.0
 - Gradient colors
 - Shadows
 
-Unsorted
+Unsorted TODO
 - Support more cloud hosting services
 - Comments
 - Integration with Style Station (share design tokens)
@@ -60,6 +63,3 @@ mbazarov@gmail.com
 # Community
 GitHub Discussions 
 - https://github.com/MaxBazarov/demo-station-plugin/discussions
-
-Facebook group 
-- https://www.facebook.com/groups/611776753155323
