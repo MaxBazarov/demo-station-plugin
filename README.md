@@ -6,12 +6,6 @@ A Figma plugin that exports frames into clickable HTML file with images.
 <img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-main-zip.png"/><img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-main-cloud.png"/>
 <img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-settings-export.png"/>
 
-## Plugin reviewed
-[Review by Raúl Marín](https://www.youtube.com/watch?v=exvafpaxGFU) (in Spanish)
-
-## ZIP-archive content
-<img width="700px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/zip-content.png"/>
-
 ## Viewer menu
 <img width="700px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/viewer-menu.png"/>
 
@@ -24,6 +18,9 @@ A Figma plugin that exports frames into clickable HTML file with images.
 # Export examples
 https://maxbazarov.github.io/demo-station-plugin/export-examples/registration  
 https://maxbazarov.github.io/demo-station-plugin/export-examples/finpay/?label&g=m
+
+## Plugin reviews
+[Review by Raúl Marín](https://www.youtube.com/watch?v=exvafpaxGFU) (in Spanish)
 
 # Features
 - Overlays
