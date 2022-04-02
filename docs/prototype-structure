@@ -1,0 +1,10 @@
+Downloaded (or published to cloud) prototype contains of four parts.
+1) index.htnml - The main project file with runs viwer JS-code
+
+2) images/ - folder with prototype images
+
+3) resources/  - viewer own resources (CSS,images,JS libraries). You can enable "Use cloud-based CSS and JS resources" setting to allow viewer to include these files from cloud. 
+It will decrease a prototype size, but will not allow you to work in offline mode.
+
+4) viewer/ 
+
