@@ -1,4 +1,4 @@
-# Introduction
+# Prototype inside
 Downloaded (or published to cloud) prototype consist of two parts:
 - prototype images and data
 - viewer code and resources
