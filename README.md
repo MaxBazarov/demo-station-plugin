@@ -28,7 +28,7 @@ A Figma plugin that exports frames into clickable HTML file with images.  [Insta
 - Text search by frame name and text node content across all project
 
 # Documentation
-[Protytype file structure](https://github.com/MaxBazarov/demo-station-plugin/blob/main/docs/prototype-structure.md)
+[Protytype file structure](https://maxbazarov.github.io/demo-station-plugin/docs/prototype-structure)
 
 # Roadmap
 Beta 2
