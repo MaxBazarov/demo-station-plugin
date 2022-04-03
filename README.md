@@ -52,8 +52,7 @@ Unsorted TODO
 - ~~Export all / current page / selected~~
 
 # Contacts
-Maxim Bazarov
-mbazarov@gmail.com
+Maxim Bazarov, mbazarov@gmail.com
 
 # Community
 [GitHub Discussions](https://github.com/MaxBazarov/demo-station-plugin/discussions)
