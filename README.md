@@ -1,6 +1,6 @@
 # Demo Station
 
-A Figma plugin that exports frames into clickable HTML file with images.  [Install Demo Station](https://www.figma.com/community/plugin/1033284895522313541)
+The Figma plugin that exports frames into clickable HTML file with images.  [Install Demo Station](https://www.figma.com/community/plugin/1033284895522313541)
 
 [<img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-main-zip.png"/>](https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-main-zip.png)
 <img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-main-cloud.png"/>
