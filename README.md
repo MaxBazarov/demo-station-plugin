@@ -1,7 +1,7 @@
 # Demo Station
 
 A Figma plugin that exports frames into clickable HTML file with images.  
-**https://www.figma.com/community/plugin/1033284895522313541**
+[Install](https://www.figma.com/community/plugin/1033284895522313541)
 
 <img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-main-zip.png"/><img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-main-cloud.png"/>
 <img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-settings-export.png"/>
@@ -16,8 +16,7 @@ A Figma plugin that exports frames into clickable HTML file with images.
 <img width="700px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/viewer-inspector.png"/>
 
 # Export examples
-https://maxbazarov.github.io/demo-station-plugin/export-examples/registration  
-https://maxbazarov.github.io/demo-station-plugin/export-examples/finpay/?label&g=m
+[Registration wizard](https://maxbazarov.github.io/demo-station-plugin/export-examples/registration), [Finpay|https://maxbazarov.github.io/demo-station-plugin/export-examples/finpay/?label&g=m]
 
 # Plugin reviews
 [Review by Raúl Marín](https://www.youtube.com/watch?v=exvafpaxGFU) (in Spanish)
@@ -58,5 +57,4 @@ Maxim Bazarov
 mbazarov@gmail.com
 
 # Community
-GitHub Discussions 
-- https://github.com/MaxBazarov/demo-station-plugin/discussions
+[GitHub Discussions](https://github.com/MaxBazarov/demo-station-plugin/discussions)
