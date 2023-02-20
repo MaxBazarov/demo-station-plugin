@@ -3,7 +3,9 @@
 The Figma plugin that exports frames into clickable HTML file with images.  [Install Demo Station](https://www.figma.com/community/plugin/1033284895522313541)
 
 [<img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-main-zip.png"/>](https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-main-zip.png)[<img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-main-cloud.png"/>](https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-main-cloud.png)
-[<img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-settings-export.png"/>](https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-settings-export.png)
+[<img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-settings-01.png"/>](https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-settings-01.png)
+[<img width="400px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-settings-02.png"/>](https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/plugin-settings-02.png)
+
 
 ## Viewer menu
 <img width="700px" src="https://raw.githubusercontent.com/MaxBazarov/demo-station-plugin/main/screenshots/viewer-menu.png"/>
