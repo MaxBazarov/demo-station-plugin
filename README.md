@@ -19,6 +19,10 @@ The Figma plugin that exports frames into clickable HTML file with images.  [Ins
 # Export examples
 [Registration wizard](https://maxbazarov.github.io/demo-station-plugin/export-examples/registration), [Finpay](https://maxbazarov.github.io/demo-station-plugin/export-examples/finpay/?label&g=m)
 
+# "How to" videos
+- [How to link frames on different Pages](https://youtu.be/B1XYVMv4beI)
+
+
 # Plugin reviews
 [Review by Raúl Marín](https://www.youtube.com/watch?v=exvafpaxGFU) (in Spanish)
 
@@ -31,27 +35,6 @@ The Figma plugin that exports frames into clickable HTML file with images.  [Ins
 
 # Documentation
 [Protytype file structure](https://maxbazarov.github.io/demo-station-plugin/docs/prototype-structure)
-
-# Roadmap
-Beta 2
-- ~~Move viewer assets (css,icons,etc) into ZIP archive~~
-- ~~Upload to Cloud hosting~~
-
-Release 1.0
-- Element states
-- Gradient colors
-- Shadows
-
-Unsorted TODO
-- Support more cloud hosting services
-- Comments
-- Integration with Style Station (share design tokens)
-- Support for overlay background
-- Support for multiple flows
-- Support for multiple grid layout
-- Support for all layout grid types
-- Transitions
-- ~~Export all / current page / selected~~
 
 # Contacts
 Maxim Bazarov, mbazarov@gmail.com
