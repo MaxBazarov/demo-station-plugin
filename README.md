@@ -28,13 +28,20 @@ The Figma plugin that exports frames into clickable HTML file with images.  [Ins
 
 # Features
 - Overlays
-- Gallery (map and grid modes)
+- Map view
 - Element Inspector (Developer handoff)
 - Show layout grid (single grid of "cols" type only)
 - Text search by frame name and text node content across all project
+- Smooth navigating between frames on different pages
+- Smooth navigating between frames in different files (cloud-only)
 
 # Documentation
 [Protytype file structure](https://maxbazarov.github.io/demo-station-plugin/docs/prototype-structure)
+
+# Limitation
+- Supports only the following prototype events: on_click, while_hovering
+- Supports only the following prototype actions: navigate_to, back, open_overlay,close_overlay, open_link
+- Experimental support for nodes with fixed position
 
 # Contacts
 Maxim Bazarov, mbazarov@gmail.com
