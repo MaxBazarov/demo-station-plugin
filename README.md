@@ -39,8 +39,8 @@ The Figma plugin that exports frames into clickable HTML file with images.  [Ins
 [Protytype file structure](https://maxbazarov.github.io/demo-station-plugin/docs/prototype-structure)
 
 # Limitation
-- Supports only the following prototype events: on_click, while_hovering
-- Supports only the following prototype actions: navigate_to, back, open_overlay,close_overlay, open_link
+- Supports only the following prototype events: On click, While hovering, After timeout
+- Supports only the following prototype actions: navigate_to, back, open_overlay, close_overlay, swap_overlay, open_link
 - Experimental support for nodes with fixed position
 
 # Contacts
