@@ -14,4 +14,4 @@ Unfortunately Figma doesn’t provide API to plugins to get a video content, so 
 <img src="https://github.com/MaxBazarov/demo-station-plugin/raw/main/docs/video/image02.png"/>
 
 5. Open index.html and see your video inside a prototype.
-<img widthsrc="https://github.com/MaxBazarov/demo-station-plugin/raw/main/docs/video/image03.png"/>
+<img src="https://github.com/MaxBazarov/demo-station-plugin/raw/main/docs/video/image03.png"/>
