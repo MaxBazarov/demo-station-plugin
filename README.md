@@ -19,9 +19,6 @@ The Figma plugin that exports frames into clickable HTML file with images.  [Ins
 # Export examples
 [Registration wizard](https://maxbazarov.github.io/demo-station-plugin/export-examples/registration), [Finpay](https://maxbazarov.github.io/demo-station-plugin/export-examples/finpay/?label&g=m)
 
-# "How to" videos
-- [How to link frames on different Pages](https://youtu.be/B1XYVMv4beI)
-
 
 # Plugin reviews
 [Review by Raúl Marín](https://www.youtube.com/watch?v=exvafpaxGFU) (in Spanish)
@@ -37,7 +34,9 @@ The Figma plugin that exports frames into clickable HTML file with images.  [Ins
 - Show layout grid (single grid of "cols" type only)
 
 # Documentation
-[Protytype file structure](https://maxbazarov.github.io/demo-station-plugin/docs/prototype-structure)
+- [Protytype file structure](https://maxbazarov.github.io/demo-station-plugin/docs/prototype-structure)
+- [Play a video inside a protype](https://maxbazarov.github.io/demo-station-plugin/docs/video/index)
+- [How to link frames on different Pages](https://youtu.be/B1XYVMv4beI)
 
 # Limitation
 - Uses workaround to play videos ([details](https://maxbazarov.github.io/demo-station-plugin/docs/video/index))
