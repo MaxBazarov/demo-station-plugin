@@ -36,6 +36,7 @@ The Figma plugin that exports frames into clickable HTML file with images.  [Ins
 # Documentation
 - [Protytype file structure](https://maxbazarov.github.io/demo-station-plugin/docs/prototype-structure)
 - [Play a video inside a protype](https://maxbazarov.github.io/demo-station-plugin/docs/video/index)
+- [Show debug console](https://maxbazarov.github.io/demo-station-plugin/docs/files/enable-debug.png)
 - [How to link frames on different Pages](https://youtu.be/B1XYVMv4beI)
 
 # Limitation
