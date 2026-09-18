@@ -1,6 +1,6 @@
 # How to convert exported PNG to webp on macOS
 ## Download script
-Download and unzip <a target="_blank" href="https://github.com/MaxBazarov/demo-station-plugin/raw/main/docs/files/png_to_webp.zip">bash script</a>.
+Download and unzip <a target="_blank" href="https://github.com/MaxBazarov/demo-station-plugin/raw/main/docs/files/png_to_webp.sh.zip">bash script</a>.
 Move it to a parent of a folder with unzipped prototype.
 
 ## Run script in Terminal
