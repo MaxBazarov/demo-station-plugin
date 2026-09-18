@@ -4,7 +4,7 @@ Download and unzip <a target="_blank" href="https://github.com/MaxBazarov/demo-s
 Move it to a parent of a folder with unzipped prototype.
 
 ## Run script in Terminal
-bash png_to_webp.sh <PROTOTYPE_FOILDER>
+bash png_to_webp.sh YOUR_PROTOTYPE_FOLDER
 
 ## Webp installation
 If you have no webp installed then follow the script instruction in Terminal
