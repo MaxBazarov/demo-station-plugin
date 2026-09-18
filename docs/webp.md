@@ -10,7 +10,7 @@ bash png_to_webp.sh YOUR_PROTOTYPE_FOLDER
 If you have no webp installed then follow the script instruction in Terminal
 
 # How to run the script automatically
-Download and unzip <a target="_blank" href="hwebp-automator.sh.zip">Automator script</a>.
+Download and unzip <a target="_blank" href="https://github.com/MaxBazarov/demo-station-plugin/raw/main/docs/files/hwebp-automator.sh.zip">Automator script</a>.
 
 ## Setting Up the Folder Action in Automator
 
